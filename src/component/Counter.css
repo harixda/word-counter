@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+.counter {
+    background-color: #551A8B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    padding: 0.5rem;
+    font-weight: bolder;
+}
+
+.paste {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.paste textarea {
+    resize: none;
+    background-color: rgba(245, 245, 245, 0.815);
+
+}
